@@ -10,11 +10,10 @@ I'm currently working on building ML models
 # 📊 GitHub Stats:
 
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Dhruv-Mann&theme=highcontrast&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Dhruv-Mann&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dhruv-Mann&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Mann&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Main Stats](https://github-readme-stats.vercel.app/api?username=Dhruv-Mann&theme=highcontrast&show_icons=true&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Mann&theme=highcontrast&layout=compact&hide_border=false)pact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dhruv-Mann&icon=0&color=1)](https://visitcount.itsvg.in)
