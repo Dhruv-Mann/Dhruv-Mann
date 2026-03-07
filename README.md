@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on building ML models
+I don't write code, I live code
 
 
 ## 🌐 Socials:
