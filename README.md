@@ -1,7 +1,7 @@
 # 💫 About Me:
 I don't write code, I live code
 
-[![Website](https://img.shields.io/badge/Website-dhruvmann--jet.vercel.app-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://dhruvmann-jet.vercel.app)
+[![More About Me](https://img.shields.io/badge/More_about_me-(click)-%23FF0055?style=for-the-badge)](https://dhruvmann-jet.vercel.app)
 
 
 ## 🌐 Socials:
