@@ -32,9 +32,9 @@ I'm an AI Product Engineer. I design and build end-to-end intelligent systems, b
 </p>
 
 ### 📊 Language Distribution
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Dhruv-Mann&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=Dhruv-Mann&theme=highcontrast&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Mann&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 <p align="center">
