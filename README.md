@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="https://github.com/Dhruv-Mann">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Dhruv" alt="Hello! I'm Dhruv" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=430&height=44&lines=code%2C%20monster%20and%20ragebait" alt="Typing headlines" />
-</p>
 
 ##  About Me:
 I'm an AI Product Engineer. I design and build end-to-end intelligent systems, bridging the gap between deep learning research and highly optimized, low-latency production applications.
