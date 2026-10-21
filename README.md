@@ -14,24 +14,3 @@ I'm an AI Product Engineer. I design and build end-to-end intelligent systems, b
 #  Tech Stack:
 You name it
 
-###  Contribution Graph
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-Mann&bg_color=00000000&color=a855f7&line=a855f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-###  Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
-###  Language Distribution
-
-<p align="center">
-
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Dhruv-Mann&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-
-</p>
-
-
-
-<p align="center"><i>⭐️ From <a href="https://github.com/Dhruv-Mann">Dhruv-Mann</a></i></p>
